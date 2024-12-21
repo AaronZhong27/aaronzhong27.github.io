@@ -8,11 +8,11 @@ redirect_from:
 ---
 I try to use this templete to make a webpage for a schoolar.
 
-Following is a webpage of Peking University, for the text and link test on this webpage.
+Following is a webpage of [Peking University](https://www.pku.edu.cn), for the text and link test on this webpage.
 
-You an find my CV here:somebody's Curiculum Vitae, this is for upload a pdf and locate the place to contain the pdf file. here, need upload cv.pdf into assets
+You an find my CV here:[somebody's Curiculum Vitae](../assets/CV.pdf), this is for upload a pdf and locate the place to contain the pdf file. here, need upload cv.pdf into assets
 
-Email(mailto:122@163.com), try to upload a picture. and by click on the link it will open the outlook or other mail server for email here need upload email.jpg into image
+[Email](../images/email.jpg)(mailto:122@163.com), try to upload a picture. and by click on the link it will open the outlook or other mail server for email here need upload email.jpg into image
 
 
 
