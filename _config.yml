@@ -22,7 +22,7 @@ repository               : "aaronzhong27/aaronzhong27.github.io" # original is "
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sidepbarpic.jpg" # original is "profile.png" the pic MUST png
+  avatar           : "sidepbarpic.png" # original is "profile.png" the pic MUST png
   name             : "My Name" # original is "Your Sidebar Name"
   pronouns         : "he/him/his"# example: "she/her"  original is empty
   bio              : "a student" # original is "Short biography for the left-hand sidebar"
