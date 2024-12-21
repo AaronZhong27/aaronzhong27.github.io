@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
+(add your CV here, I don't change it)
+Education 
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
