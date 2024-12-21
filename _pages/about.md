@@ -6,6 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I try to use this templete to make a webpage for a schoolar.
+
+Following is a webpage of Peking University, for the text and link test on this webpage.
+
+You an find my CV here:somebody's Curiculum Vitae, this is for upload a pdf and locate the place to contain the pdf file. here, need upload cv.pdf into assets
+
+Email(mailto:122@163.com), try to upload a picture. and by click on the link it will open the outlook or other mail server for email here need upload email.jpg into image
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
