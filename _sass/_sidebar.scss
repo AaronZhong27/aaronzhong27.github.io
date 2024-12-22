@@ -145,8 +145,24 @@
 }
 
 .author__bio {
-  margin: 0;
+# mark this:  margin: 0;
+# add following lines to add CV here
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+  font-family: $sans-serif;
+  z-index: 10;
+  position: relative;
+  cursor: pointer;
+   
 
+  li:last-child {
+    a {
+      margin-bottom: 0;
+    }
+  }
+# the end of the adding
+   
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
