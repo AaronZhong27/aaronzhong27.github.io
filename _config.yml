@@ -28,7 +28,7 @@ author:
   bio              : "a short biography" # original is "Short biography for the left-hand sidebar"
   location         : "DC-1223070701fail1" # original is "Earth"
   employer         : "University of ..." # original is "Red Brick University"
-  uri              : "[CV](../assets/cv.pdf)" # URL original is empty
+  uri              : "../assets/cv.pdf" # URL original is empty
   email            : "123@123.net" # original is "none@example.org" 
 
   # Academic websites
