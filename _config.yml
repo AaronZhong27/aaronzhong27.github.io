@@ -25,7 +25,7 @@ author:
   avatar           : "sidebarpic.png" # original is "profile.png" the pic MUST png
   name             : "My Name" # original is "Your Sidebar Name"
   pronouns         : "he/him/his"# example: "she/her"  original is empty
-  bio              : "My CV(assets/cv.pdf)" # original is "Short biography for the left-hand sidebar"
+  bio              : "My CV(../assets/CV.pdf)" # original is "Short biography for the left-hand sidebar"
   location         : "DC" # original is "Earth"
   employer         : "University of ..." # original is "Red Brick University"
   uri              : URL # URL original is empty
