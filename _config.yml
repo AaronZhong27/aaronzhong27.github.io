@@ -26,7 +26,7 @@ author:
   name             : "My Name" # original is "Your Sidebar Name"
   pronouns         : "he/him/his"# example: "she/her"  original is empty
   bio              : "[My cv](../assets/cv.pdf)a biography" # original is "Short biography for the left-hand sidebar"
-  location         : "DC-" # original is "Earth"
+  location         : "DC-1223070701" # original is "Earth"
   employer         : "University of ..." # original is "Red Brick University"
   uri              : URL # URL original is empty
   email            : "123@123.net" # original is "none@example.org" 
